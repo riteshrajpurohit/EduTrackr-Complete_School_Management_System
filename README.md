@@ -31,35 +31,35 @@ Get a visual tour of EduTrackr features:
 
 ### 1. 🔐 Authentication - Login Portal
 
-![Login Screen](images/01-login-screen.png)
+![Login Screen](Lgin%20Page.png)
 _Secure login portal with role selection (Admin, Teacher, Student) and Google OAuth integration for quick access._
 
 ---
 
 ### 2. 👨‍💼 Super Admin - Fees Management Dashboard
 
-![Fees Management](images/02-fees-management.png)
+![Fees Management](Fees%20Management%20Page.png)
 _Complete fee module control center with quick access to manage fee groups, installments, extra fees, student ledger, payment records, and comprehensive reports._
 
 ---
 
 ### 3. 📊 Super Admin - Principal Console
 
-![Principal Console](images/03-principal-console.png)
+![Principal Console](Principal%20Dashboard.png)
 _Executive dashboard showing key metrics: total classes, subjects, teachers, and students with quick action buttons for class and subject management._
 
 ---
 
 ### 4. 📅 Student - Attendance Tracking
 
-![Student Attendance](images/04-student-attendance.png)
+![Student Attendance](Student%20Attendance%20Page.png)
 _Personal attendance dashboard for students to view attendance records, percentage, and historical attendance data with visual charts._
 
 ---
 
 ### 5. 🎓 Student - Welcome Dashboard
 
-![Student Dashboard](images/05-student-dashboard.png)
+![Student Dashboard](Student%20Dashboard.png)
 _Student home screen displaying class information, marks overview, quick action links to view subjects, marks, and profile settings._
 
 ---
