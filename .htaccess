@@ -1,0 +1,11 @@
+# EduTrackr - Apache Configuration
+# Simplified version to avoid conflicts
+
+# Prevent directory listing
+Options -Indexes
+
+# Protect sensitive files (if mod_rewrite is available)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+</IfModule>
+

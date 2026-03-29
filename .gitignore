@@ -1,0 +1,42 @@
+# EduTrackr - Git Ignore File
+
+# Sensitive configuration files
+includes/google_config.php
+
+# Database files
+*.sql
+*.db
+
+# Log files
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+cache/
+
+# Environment files
+.env
+.env.local
+
+# Error logs
+error_log
+php_error.log
+
+# Backup files
+*.bak
+*.backup
+*~
+
