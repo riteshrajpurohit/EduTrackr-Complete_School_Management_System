@@ -8,6 +8,7 @@
 EduTrackr is a role-based School Management System built with core PHP + MySQL.
 It covers daily school operations from one dashboard: academics, attendance, exams, announcements, timetable, and a full fee payment workflow with receipts.
 
+
 ## Table of Contents
 
 - [System Screenshots & Gallery](#system-screenshots--gallery)
