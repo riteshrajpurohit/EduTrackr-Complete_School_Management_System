@@ -250,7 +250,7 @@ This sequence creates base tables first, then new fee-system tables, then paymen
 
 ### 1. Put project in web root
 
-Example for MAMP:
+For MAMP:
 
 ```bash
 cd /Applications/MAMP/htdocs
